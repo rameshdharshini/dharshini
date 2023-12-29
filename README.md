@@ -1,4 +1,4 @@
-![logo](https://wallpaperaccess.com/full/3414990.jpg)
+
 <h1 align="center">Hi 👋, I'm Devadharshini.R V</h1>
 <h3 align="center">A passionate Software developer & full-Stack developer from India</h3>
 
